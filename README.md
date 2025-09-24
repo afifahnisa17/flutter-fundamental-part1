@@ -21,7 +21,8 @@ Berhasil menghubungkan Perangkat Android dengan Emulator. Namun, pada kesempatan
 <img src="img/prak4_langkah1.png">
 
 ### Langkah 2: Image Widget
-**Buat sebuah file image_widget.dart di dalam folder basic_widgets dengan isi kode berikut.**
+<img src="img/prak4_langkah2.png">
+
 
 ## PRAKTIKUM 5
 
