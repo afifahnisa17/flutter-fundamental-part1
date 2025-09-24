@@ -17,13 +17,13 @@ Berhasil menghubungkan Perangkat Android dengan Emulator. Namun, pada kesempatan
 
 ## PRAKTIKUM 4
 ### Langkah 1: Text Widget
-**Buat folder baru basic_widgets di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart. Ketik atau salin kode program berikut ke project hello_world Anda pada file text_widget.dart.**
 <img src="img/prak4_langkah1.png">
 
 ### Langkah 2: Image Widget
 <img src="img/prak4_langkah2.png">
 
-
 ## PRAKTIKUM 5
+### Langkah 1 - 3 
+<img src="img/prak5_langkah3.png">
 
 ## TUGAS PRAKTIKUM
