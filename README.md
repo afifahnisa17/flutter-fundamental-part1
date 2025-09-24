@@ -1,3 +1,30 @@
+# 📑 APLIKASI PERTAMA DAN WIDGET DASAR FLUTTER  
+
+<table>
+  <tr>
+    <td><b>Nama</b></td>
+    <td>:</td>
+    <td>Afifah Khoirunnisa</td>
+  </tr>
+  <tr>
+    <td><b>Kelas</b></td>
+    <td>:</td>
+    <td>TI-3G</td>
+  </tr>
+  <tr>
+    <td><b>NIM</b></td>
+    <td>:</td>
+    <td>2341720250</td>
+  </tr>
+  <tr>
+    <td><b>No. Abs</b></td>
+    <td>:</td>
+    <td>02</td>
+  </tr>
+</table>  
+
+---
+
 ## PRAKTIKUM 1
 **Membuat Projek di VS CODE**
 <img src="img/prak1_langkah4.png">
@@ -36,5 +63,7 @@ Berhasil menghubungkan Perangkat Android dengan Emulator. Namun, pada kesempatan
 <img src="img/prak5_langkah6.png">
 <img src="img/prak5_langkah6-2.png">
 
-
 ## TUGAS PRAKTIKUM
+**4. Selesaikan Codelabs: Your first Flutter app, lalu buatlah laporan praktikumnya dan push ke repository GitHub Anda!**
+
+
