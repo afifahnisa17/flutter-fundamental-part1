@@ -30,5 +30,7 @@ Berhasil menghubungkan Perangkat Android dengan Emulator. Namun, pada kesempatan
 <img src="img/prak5_langkah4.png">
 
 ### Langkah 5
+<img src="img/prak5_langkah5.png">
+
 
 ## TUGAS PRAKTIKUM
