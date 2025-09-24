@@ -1,16 +1,28 @@
-# hello_world
+## PRAKTIKUM 1
+**Membuat Projek di VS CODE**
+<img src="img/prak1_langkah4.png">
 
-A new Flutter project.
+## PRAKTIKUM 2
+Berhasil menghubungkan Perangkat Android dengan Emulator. Namun, pada kesempatan kali ini, saya menggunakan VSCODE dan software scrcpy untuk mirroring layar HP ke laptop supaya lebih mudah di screenshoot.
 
-## Getting Started
+## PRAKTIKUM 3
 
-This project is a starting point for a Flutter application.
+### Langkah 10
+**Membuat Projek di Github**
+<img src="img/prak3_langkah10.png">
 
-A few resources to get you started if this is your first Flutter project:
+### Langkah 11-12
+**Kembali ke VS Code, ubah platform di pojok kanan bawah ke emulator atau device atau bisa juga menggunakan browser Chrome. Lalu coba running project hello_world dengan tekan F5 atau Run > Start Debugging. Tunggu proses kompilasi hingga selesai, maka aplikasi flutter pertama Anda akan tampil seperti berikut.**
+<img src="img/prak3_langkah11.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## PRAKTIKUM 4
+### Langkah 1: Text Widget
+**Buat folder baru basic_widgets di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart. Ketik atau salin kode program berikut ke project hello_world Anda pada file text_widget.dart.**
+<img src="img/prak4_langkah1.png">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Langkah 2: Image Widget
+**Buat sebuah file image_widget.dart di dalam folder basic_widgets dengan isi kode berikut.**
+
+## PRAKTIKUM 5
+
+## TUGAS PRAKTIKUM
